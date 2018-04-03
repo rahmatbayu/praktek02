@@ -11,6 +11,12 @@ public class balokaksi {
         b1.cetakinfo();
         System.out.println("volume balok ="+b1.hitungvolume());
         b1.cetakvolume();
+        
+        balok b2 = new balok();
+        b2.cetakinfo();
+        
+        balok b3 = new balok(20,18,12);
+        b3.cetakinfo();
     }
     
   
