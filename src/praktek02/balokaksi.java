@@ -8,6 +8,7 @@ public class balokaksi {
         b1.lebar = 8;
         b1.tinggi = 6;
         
+        b1.cetakinfo();
     }
     
   
